@@ -1,0 +1,18 @@
+{
+  "name": "vuepress-demo",
+  "version": "0.1.0",
+  "description": "vuepress-demo",
+  "main": "index.js",
+  "author": "Terry Zhang",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "vuepress": "^1.6.0"
+  },
+  "dependencies": {
+    "remixicon": "^2.5.0"
+  }
+}
