@@ -16,3 +16,12 @@
 - [x] 在Markdown中使用Vue组件
 - [x] 在Markdown中访问全局计算属性
 - [x] 在Markdown中使用css 
+
+### 本地启动项目
+
+```bash
+# 使用yarn
+yarn install
+yarn docs:dev
+```
+
